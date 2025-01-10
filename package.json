@@ -23,7 +23,7 @@
     "react-web-share": "^2.0.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://username.github.io/repository",
+  "homepage": "https://github.com/jayeshmehra344/CoinSight.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
