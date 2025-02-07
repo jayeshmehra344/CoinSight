@@ -17,7 +17,7 @@ function MainComponent() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 0.5, duration: 1 }}
         >
-          Track Crypto
+          CoinSight
         </motion.h1>
         <motion.h1
           className="heading2"
@@ -25,7 +25,7 @@ function MainComponent() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 0.75, duration: 1 }}
         >
-          Real Time.
+          Track Crypto.
         </motion.h1>
         <motion.p
           className="info-text"

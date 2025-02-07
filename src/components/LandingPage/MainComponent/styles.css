@@ -20,6 +20,7 @@
 
 .heading2 {
   color: var(--blue);
+  margin-left: 100px;
 }
 
 .info-text {
