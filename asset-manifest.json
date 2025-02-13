@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CoinSight/static/css/main.7042ebfb.css",
-    "main.js": "/CoinSight/static/js/main.26533908.js",
+    "main.js": "/CoinSight/static/js/main.467c5364.js",
     "static/media/iphone.png": "/CoinSight/static/media/iphone.080029ada53f0cd57453.png",
     "static/media/gradient.png": "/CoinSight/static/media/gradient.12a666ed10b3b442b534.png",
     "index.html": "/CoinSight/index.html",
     "main.7042ebfb.css.map": "/CoinSight/static/css/main.7042ebfb.css.map",
-    "main.26533908.js.map": "/CoinSight/static/js/main.26533908.js.map"
+    "main.467c5364.js.map": "/CoinSight/static/js/main.467c5364.js.map"
   },
   "entrypoints": [
     "static/css/main.7042ebfb.css",
-    "static/js/main.26533908.js"
+    "static/js/main.467c5364.js"
   ]
 }
